@@ -21,6 +21,5 @@
         color: #ff3e00;
         font-size: 1em;
         font-weight: 100;
-
     }
 </style>

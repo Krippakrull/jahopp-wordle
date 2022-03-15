@@ -6,7 +6,6 @@
     import Results from "./components/Results.svelte";
     let guesses = 5;
     let letters = 5;
-    let resultArray = [...Array(letters)];
 
     const word = getWord();
     export let name;
